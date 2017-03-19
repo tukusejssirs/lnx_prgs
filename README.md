@@ -23,9 +23,12 @@ prg name | metapackage | description | purpose I use it for
 `p7zip`
 `zip`
 `unzip`
-`gnome-desktop`
 `alias`
 `alien`
+`w3m`
+`links2`
+`translate-shell` / `trans`
+`speedtest-cli`
 
 
 # gui
