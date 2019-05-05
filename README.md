@@ -1,4 +1,7 @@
 # terminal
+
+**I archived this GitHub repo as I have moved it to [GitLab](https://gitlab.com/tukusejssirs/lnx_prgs).**
+
 prg name | metapackage | description | purpose I use it for
 ---------|-------------|-------------|----------------------
 `smartmontools` | | control and monitor storage systems using SMART | check drives health
